@@ -1,9 +1,9 @@
 package org.deepercreeper.engine.motion.colliders;
 
 import org.deepercreeper.engine.annotations.PrototypeComponent;
+import org.deepercreeper.engine.geometry.box.Box;
 import org.deepercreeper.engine.motion.collisions.Collision;
 import org.deepercreeper.engine.physics.Entity;
-import org.deepercreeper.engine.geometry.box.Box;
 
 import java.util.*;
 
